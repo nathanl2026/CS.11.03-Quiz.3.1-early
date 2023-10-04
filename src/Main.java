@@ -1,11 +1,11 @@
 /*
-*   Name:
-*   Section:
+*   Name: Nathan Lau
+*   Section: 12
 *
 *   Academic Honesty Pledge:
 *   "I have neither given nor received any unauthorized aid on this piece of work."
 *
-*   Signed ______  Date _______
+*   Signed Nathan  Date Oct, 4
 * */
 
 public class Main {

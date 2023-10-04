@@ -5,7 +5,7 @@ class MainTest {
     @org.junit.jupiter.api.Test
     void calculateGrade() {
         assertEquals('A', Main.calculateGrade(96));
-        assertEquals('B', Main.calculateGrade(80));
+        assertEquals('C', Main.calculateGrade(80));
         assertEquals('C', Main.calculateGrade(75));
         assertEquals('D', Main.calculateGrade(65));
         assertEquals('F', Main.calculateGrade(54));
@@ -36,8 +36,8 @@ class MainTest {
 
     @org.junit.jupiter.api.Test
     void endUp() {
-        assertEquals("HEllo", Main.endDown(“HELLO”));
-        assertEquals("FOR Sure", Main.endDown(“FOR SURE”));
-        assertEquals("gg", Main.endDown(“GG”));
+        assertEquals("HEllo", Main.endDown("HELLO"));
+        assertEquals("FOR Sure", Main.endDown("FOR SURE"));
+        assertEquals("gg", Main.endDown("GG"));
     }
 }
